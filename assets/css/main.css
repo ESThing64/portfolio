@@ -32,6 +32,9 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+.cheat {
+position: absolute;
+}
 
 ol, ul {
 	list-style: none;
@@ -2768,7 +2771,7 @@ input, select, textarea {
 				font-size: 1.75em;
 			}
 
-				.tiles article h3 a:hover {
+				.tiles article h3 :hover {
 					color: inherit !important;
 				}
 
